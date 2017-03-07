@@ -7,6 +7,7 @@ Created on Oct 21, 2016
 import requests
 from pip._vendor.distlib.compat import raw_input
 from html.parser import HTMLParser
+import webbrowser
 
 class LoginException(Exception):
     pass
@@ -88,6 +89,9 @@ class PandoraClient(object):
                     more_pages = False
         
         f.close()
+        
+        webbrowser.open("http://www.playlist-converter.net/#/", new=2)
+        webbrowser.open("Likes.txt")
 		
 		
 loggingIn = True
