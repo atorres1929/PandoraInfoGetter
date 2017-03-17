@@ -36,5 +36,6 @@ Can be used to take all your Pandora likes and make a Spotify playlist out if it
 1. MAKE SURE YOU CLICK THE SPOTIFY BUTTON
 
 **Youtube Tutorial On How to Get the Script to Work:**
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lodjjKDWKi0/0.jpg)](https://youtu.be/lodjjKDWKi0)
 
