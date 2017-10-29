@@ -1,3 +1,5 @@
+# Note: This project is currently broken and does not work due to Pandora changing the way things work on their end.
+
 # PandoraInfoGetter
 Gets all your likes from your Pandora account and puts them in a text file. 
 
