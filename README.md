@@ -1,4 +1,7 @@
 # Note: This project is currently broken and does not work due to Pandora changing the way things work on their end.
+# For a good tool to convert your Pandora songs to Spotify, go to:
+http://pandify.com/#!/configure
+
 
 # PandoraInfoGetter
 Gets all your likes from your Pandora account and puts them in a text file. 
